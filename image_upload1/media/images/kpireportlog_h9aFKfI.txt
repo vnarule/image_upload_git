@@ -1,0 +1,10 @@
+ INFO [http-nio-8080-exec-28] 25 Apr 2022 05:34:32 (XSRFGWTDispatchInterceptor.java:36) - Is user session authenticated: true
+ INFO [http-nio-8080-exec-28] 25 Apr 2022 05:34:32 (XSRFTokenUtility.java:81) - Comparing tokens
+ INFO [http-nio-8080-exec-28] 25 Apr 2022 05:34:32 (XSRFTokenUtility.java:82) - Token from session e36d8637-2ac7-486b-9957-ccd4f0f66022 and Token from request e36d8637-2ac7-486b-9957-ccd4f0f66022
+ INFO [http-nio-8080-exec-28] 25 Apr 2022 05:34:32 (TicketStatisticReportAggImpl.java:220) - Report status is Completed for report id 33
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticReportDownloadServlet.java:31) - Exporting Report
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticReportDownloadServlet.java:53) - Generating report with the name: KPI Report
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticReportDownloadServlet.java:89) - Downloaded report KPI_Report_ChangeOrder_25_Apr_2022.xlsx
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticReportDownloadServlet.java:106) - Removing report data from session
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticsReportSvcImpl.java:260) - Removing report data for reportid:33
+ INFO [http-nio-8080-exec-17] 25 Apr 2022 05:34:33 (TicketStatisticsReportFactory.java:155) - Size of report map : 1
